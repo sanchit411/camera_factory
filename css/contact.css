@@ -1,0 +1,28 @@
+/*
+* Sanchit Arora
+* jadrn057
+* Project #2
+* Spring 2018
+*/
+
+/*================================= GENERAL ==================================*/
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/*================================= CONTENT ==================================*/
+
+#contact{
+    background-color: burlywood;
+}
+#con {
+    text-align: center; 
+}
+

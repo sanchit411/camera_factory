@@ -1,0 +1,47 @@
+/*
+* Sanchit Arora
+* jadrn057
+* Project #2
+* Spring 2018
+*/
+
+
+/*----------------------------------- CART -----------------------------------*/
+#menu_cart {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-self: flex-end;
+}
+#menu_cart span {
+    font-weight: bold;
+    color:#fff;
+}
+#menu_cart p {
+
+    color: #fff;
+    margin-right: 8px;
+}
+#menu_cart img {
+    width:  16px;
+    height: 16px;
+    
+}
+
+/*============================= Extra ================================*/
+.stock {
+    color: green;
+}
+.error {
+    color :red
+}
+.product_info{
+    margin: 20px;
+    padding: auto;
+    text-align: center;
+}
+.money {
+    font-weight: bold;
+    color : greenyellow;
+}

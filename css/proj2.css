@@ -1,0 +1,35 @@
+/*
+* Sanchit Arora
+* jadrn057
+* Project #2
+* Spring 2018
+*/
+
+/*
+* Image slider code based off of https://www.w3schools.com/howto/howto_js_slideshow.asp
+* but was modified.
+*/
+
+/*================================= GENERAL ==================================*/
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    min-width: 800px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/*================================= CONTENT ==================================*/
+#content {
+    flex: 1 0 auto;
+    margin-top: 70px;
+
+}
+#content>h3 {
+    padding-left:20px;
+}
+
